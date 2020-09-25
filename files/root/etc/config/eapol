@@ -1,0 +1,9 @@
+
+config 'eapol' 'MYPROVIDER'
+	option 'enabled' '0'
+	option 'type' 'MD5'
+	option 'driver' 'wired'
+	option 'interface' 'lo'
+	option 'username' ''
+	option 'password' ''
+
